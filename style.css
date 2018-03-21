@@ -16,7 +16,7 @@ body {
 .main .layer1 {
     width: 100%;
     height: 100%;
-    background: cornflowerblue;
+    background: #FF5722;
     transform: skewX(-20deg);
     z-index: 1;
     box-shadow: 0 0 0 15px #fff;
